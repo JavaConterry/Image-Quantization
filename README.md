@@ -1,6 +1,6 @@
 # Image quantization methods
 ---
-In this project is listed some basic image quantisation algorithms
+In this project are listed some basic image quantisation algorithms
 \
 \
 \
