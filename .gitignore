@@ -2,3 +2,4 @@
 .gitignore
 .test.py
 .test_octree.py
+Bayers.py
